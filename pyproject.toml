@@ -11,6 +11,8 @@ dependencies = [
     "polars-lts-cpu>=0.20.0",
     "pandas>=2.1.4",
     "pyarrow>=14.0.1",
+    "plotly>=5.18.0",
+    "dynaconf>=3.2.4",
 ]
 requires-python = ">=3.11"
 readme = "README.md"
